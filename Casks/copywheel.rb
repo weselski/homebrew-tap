@@ -7,7 +7,7 @@ cask "copywheel" do
   desc "Radial snippet-copy menu for macOS"
   homepage "https://github.com/weselski/copywheel"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "CopyWheel.app"
 
