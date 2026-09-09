@@ -1,6 +1,6 @@
 cask "copywheel" do
-  version "0.3.2"
-  sha256 "1aeb79da233b814b4144f3784d5adf6bcaf48a142564d67e20d7fc4de2bbc7fb"
+  version "0.3.3"
+  sha256 "9c63181d20076cbb57aaf85d1066da1bf5a722617975ace96f1271a0beef124d"
 
   url "https://github.com/weselski/copywheel/releases/download/v#{version}/CopyWheel.dmg"
   name "CopyWheel"
